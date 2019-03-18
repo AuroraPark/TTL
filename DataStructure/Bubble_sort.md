@@ -43,7 +43,7 @@ public class bubble_sort {
 ```
 
 ```
-/* 버블정렬
+버블정렬
  * 정렬할 배열 : [1, 3, 4, 9, 7, 6]
 [0] 번째 정렬 : [1, 3, 4, 7, 6, 9]
 [1] 번째 정렬 : [1, 3, 4, 7, 6, 9]
@@ -58,8 +58,9 @@ public class bubble_sort {
 [4] 번째 정렬 : [1, 3, 4, 6, 7, 9]
 [5] 번째 정렬 : [1, 3, 4, 6, 7, 9]
 정렬된 배열 : [1, 3, 4, 6, 7, 9]
- */
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTMwNzcyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTAxODM1OTAwMSwxNjI1MzA3NzI1LDczMD
+k5ODExNl19
 -->
