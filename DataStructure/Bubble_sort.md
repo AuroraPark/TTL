@@ -3,6 +3,8 @@
 서로 인접한 두 원소를 검사하여 정렬하는 알고리즘
 인접한 2개의 레코드를 비교하여 크기가 순서대로 되어 있지 않으면 서로 교환한다.
 
+> T(n) = O(n^2)
+
 ## java
 
 ```
@@ -59,5 +61,5 @@ public class bubble_sort {
  */
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzQ4NzQ4NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTYyNTMwNzcyNSw3MzA5OTgxMTZdfQ==
 -->
