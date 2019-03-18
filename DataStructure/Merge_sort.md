@@ -6,9 +6,9 @@
  2.  부분집합들에 대해 정렬
  3.  **결합(Combine)**하는 
  
- > 분할 정복(Divide and Conquer) 기법을 사용한다.  
+ > 분할 정복(Divide and Conquer) 기법  
  
- * O(NlogN)입니다. 
+ 시간복잡도 :  O(NlogN)입니다. 
 
 
 ## java
@@ -70,5 +70,5 @@ public class Merge_sort {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwMzIxNjMyLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTk4MzkzNjI4MSwtMjA4ODc0NjYxMl19
 -->
