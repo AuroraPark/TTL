@@ -1,6 +1,6 @@
 # OSI 모델
 
-### ISO(International Standards Or:)
+### ISO(International Standards Org:)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDA2OTM2Ml19
+eyJoaXN0b3J5IjpbMTY2OTc2OTM3MywyMDYwMDY5MzYyXX0=
 -->
