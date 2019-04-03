@@ -8,6 +8,35 @@ java.lang.ClassNotFoundException
 
 Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
 
+
+
+## [[오류] import javax.servlet.http.* The import javax.servlet.http cannot be resolved](https://nyhooni.tistory.com/70)
+
+[Editor Tools/Eclipse](https://nyhooni.tistory.com/category/Editor%20Tools/Eclipse) 2014.06.10 05:41
+
+이클립스에서 새로운 프로젝트를 만들고 첫 로그인 서블릿을 야심차게 만들었으나,,,, 오류!!  
+
+아래 소스는 "뇌를 자극하는 JSP & Servlet"에서 나온 소스다.  
+
+그런데 import javax.servlet.http.* 오류.. 이건 뭘까???  
+
+검색해서 보니 이클립스내에서 path를 다시 잡아 줘야 한다고 하는데.. 암튼 오류는 해결!!
+
+하지만 전 프로젝트 생성후에는 없었던 에러라.. 난감했다!!
+
+  
+  [해결]  
+
+이클립스 -> 왼쪽 프로젝트 명 마우스 오른쪽 클릭 -> Build Path -> Configure Build Path..
+
+-> 새창에서 왼쪽 Java Build Path 선택 확인 -> 중앙 Libraries 탭 -> ADD External JARs.. 에서
+
+톰캣(tocat) - lib 폴더에 jsp-api.jar / servlet-api.jar를 선택하면 끝!!!!  
+
+
+출처: [https://nyhooni.tistory.com/70](https://nyhooni.tistory.com/70) [NewYorker IT Report]  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4MTM0MzgxLC0xMDc0Nzc3NDI0XX0=
+eyJoaXN0b3J5IjpbLTEyMjgzOTcxMjcsODA4MTM0MzgxLC0xMD
+c0Nzc3NDI0XX0=
 -->
