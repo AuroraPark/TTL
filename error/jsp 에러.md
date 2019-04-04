@@ -36,7 +36,12 @@ Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class 
 
 출처: [https://nyhooni.tistory.com/70](https://nyhooni.tistory.com/70) [NewYorker IT Report]  
 
+
+INFO : org.springframework.context.annotation.ClassPathBeanDefinitionScanner - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+이게멀까
+
+web.xml 오류라고하는디
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjgzOTcxMjcsODA4MTM0MzgxLC0xMD
-c0Nzc3NDI0XX0=
+eyJoaXN0b3J5IjpbMjkwMjM4NTg3LC0xMjI4Mzk3MTI3LDgwOD
+EzNDM4MSwtMTA3NDc3NzQyNF19
 -->
