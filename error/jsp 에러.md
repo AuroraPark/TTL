@@ -40,8 +40,8 @@ Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class 
 INFO : org.springframework.context.annotation.ClassPathBeanDefinitionScanner - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
 이게멀까
 
-web.xml 오류라고하는디
+web.xml 오류라고하는디 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMjM4NTg3LC0xMjI4Mzk3MTI3LDgwOD
-EzNDM4MSwtMTA3NDc3NzQyNF19
+eyJoaXN0b3J5IjpbLTE0NTg1NjI3OTEsMjkwMjM4NTg3LC0xMj
+I4Mzk3MTI3LDgwODEzNDM4MSwtMTA3NDc3NzQyNF19
 -->
