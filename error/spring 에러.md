@@ -11,7 +11,12 @@ WARN : org.springframework.web.servlet.PageNotFound - No mapping found for HTTP 
 	<context:component-scan base-package="org.zerock.controller" />
 	
 	주소 두번확인!!!!!!!!!
+
+
+text area 에러 !!
+
+[https://okky.kr/article/292680](https://okky.kr/article/292680)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDQ4NDUzNywtMTY0MDU1MDgyMSwtMj
-c4NDg1MTY4XX0=
+eyJoaXN0b3J5IjpbLTEwOTAyODYwNzYsMTA5MDQ4NDUzNywtMT
+Y0MDU1MDgyMSwtMjc4NDg1MTY4XX0=
 -->
