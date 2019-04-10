@@ -16,7 +16,12 @@ WARN : org.springframework.web.servlet.PageNotFound - No mapping found for HTTP 
 text area 에러 !!
 
 [https://okky.kr/article/292680](https://okky.kr/article/292680)
+
+
+
+
+javax.el.PropertyNotFoundException: Property [type] not found on type [org.zerock.domain.Criteria]] 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTAyODYwNzYsMTA5MDQ4NDUzNywtMT
-Y0MDU1MDgyMSwtMjc4NDg1MTY4XX0=
+eyJoaXN0b3J5IjpbLTIwMjQxMjQ3NzMsLTEwOTAyODYwNzYsMT
+A5MDQ4NDUzNywtMTY0MDU1MDgyMSwtMjc4NDg1MTY4XX0=
 -->
