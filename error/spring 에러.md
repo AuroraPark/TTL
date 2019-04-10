@@ -21,7 +21,11 @@ text area 에러 !!
 
 
 javax.el.PropertyNotFoundException: Property [type] not found on type [org.zerock.domain.Criteria]] 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQxMjQ3NzMsLTEwOTAyODYwNzYsMT
-A5MDQ4NDUzNywtMTY0MDU1MDgyMSwtMjc4NDg1MTY4XX0=
+eyJoaXN0b3J5IjpbMjA4ODEyNDAwNSwtMjAyNDEyNDc3MywtMT
+A5MDI4NjA3NiwxMDkwNDg0NTM3LC0xNjQwNTUwODIxLC0yNzg0
+ODUxNjhdfQ==
 -->
