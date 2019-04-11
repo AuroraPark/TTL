@@ -35,9 +35,10 @@
 9. org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.NullPointerException
 10. net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy.getNetworkTimeout()I)
 > 둘이 같은문제인듯 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODg1MTMzMCwtMTgzOTM4MjI1MSwtND
-U3Mzk3MTQ0LDg1ODkzODgwMywtMTgwNzM2NzAzMCwtMjAyNDEy
-NDc3MywtMTA5MDI4NjA3NiwxMDkwNDg0NTM3LC0xNjQwNTUwOD
-IxLC0yNzg0ODUxNjhdfQ==
+eyJoaXN0b3J5IjpbLTIwNzUzMTE0NDAsMTM1ODg1MTMzMCwtMT
+gzOTM4MjI1MSwtNDU3Mzk3MTQ0LDg1ODkzODgwMywtMTgwNzM2
+NzAzMCwtMjAyNDEyNDc3MywtMTA5MDI4NjA3NiwxMDkwNDg0NT
+M3LC0xNjQwNTUwODIxLC0yNzg0ODUxNjhdfQ==
 -->
