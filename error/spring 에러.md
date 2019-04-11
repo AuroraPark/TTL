@@ -36,9 +36,10 @@
 10. net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy.getNetworkTimeout()I)
 > 둘이 같은문제인듯 
 
+11. Cannot change version of project facet Dynamic Web Module to 2.5.[참고 블로그](https://lng1982.tistory.com/199)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUzMTE0NDAsMTM1ODg1MTMzMCwtMT
-gzOTM4MjI1MSwtNDU3Mzk3MTQ0LDg1ODkzODgwMywtMTgwNzM2
-NzAzMCwtMjAyNDEyNDc3MywtMTA5MDI4NjA3NiwxMDkwNDg0NT
-M3LC0xNjQwNTUwODIxLC0yNzg0ODUxNjhdfQ==
+eyJoaXN0b3J5IjpbLTY4NTg4MDcxNSwxMzU4ODUxMzMwLC0xOD
+M5MzgyMjUxLC00NTczOTcxNDQsODU4OTM4ODAzLC0xODA3MzY3
+MDMwLC0yMDI0MTI0NzczLC0xMDkwMjg2MDc2LDEwOTA0ODQ1Mz
+csLTE2NDA1NTA4MjEsLTI3ODQ4NTE2OF19
 -->
