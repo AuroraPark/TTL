@@ -37,8 +37,14 @@ javax.el.PropertyNotFoundException: Property [type] not found on type [org.zeroc
 Error configuring application listener of class [org.springframework.web.context.ContextLoaderListener]
 
 >[http://myblog.opendocs.co.kr/archives/1657](http://myblog.opendocs.co.kr/archives/1657)
+
+
+
+
+cookie config 오류
+> servlet 버전이 다름
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4OTM4ODAzLC0xODA3MzY3MDMwLC0yMD
-I0MTI0NzczLC0xMDkwMjg2MDc2LDEwOTA0ODQ1MzcsLTE2NDA1
-NTA4MjEsLTI3ODQ4NTE2OF19
+eyJoaXN0b3J5IjpbLTQ1NzM5NzE0NCw4NTg5Mzg4MDMsLTE4MD
+czNjcwMzAsLTIwMjQxMjQ3NzMsLTEwOTAyODYwNzYsMTA5MDQ4
+NDUzNywtMTY0MDU1MDgyMSwtMjc4NDg1MTY4XX0=
 -->
