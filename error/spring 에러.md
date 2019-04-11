@@ -30,8 +30,15 @@ javax.el.PropertyNotFoundException: Property [type] not found on type [org.zeroc
 ## [Failed to load resource: net::ERR_INCOMPLETE_CHUNKED_ENCODING]
 
 태그 안이 비었는지 확인
+
+
+
+
+Error configuring application listener of class [org.springframework.web.context.ContextLoaderListener]
+
+>[http://myblog.opendocs.co.kr/archives/1657](http://myblog.opendocs.co.kr/archives/1657)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDczNjcwMzAsLTIwMjQxMjQ3NzMsLT
-EwOTAyODYwNzYsMTA5MDQ4NDUzNywtMTY0MDU1MDgyMSwtMjc4
-NDg1MTY4XX0=
+eyJoaXN0b3J5IjpbODU4OTM4ODAzLC0xODA3MzY3MDMwLC0yMD
+I0MTI0NzczLC0xMDkwMjg2MDc2LDEwOTA0ODQ1MzcsLTE2NDA1
+NTA4MjEsLTI3ODQ4NTE2OF19
 -->
