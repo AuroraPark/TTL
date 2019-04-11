@@ -19,34 +19,23 @@
 
 
 
-javax.el.PropertyNotFoundException: Property [type] not found on type [org.zerock.domain.Criteria]] 
+5. javax.el.PropertyNotFoundException: Property [type] not found on type [org.zerock.domain.Criteria]] 
+[참고블로그](https://teqoo.tistory.com/)
 
+6.  [Failed to load resource: net::ERR_INCOMPLETE_CHUNKED_ENCODING]
 
+> 태그 안이 비었는지 확인
 
-### [  
-테쿠의 개발 일기장](https://teqoo.tistory.com/)
+7. Error configuring application listener of class [org.springframework.web.context.ContextLoaderListener]
+[참고 블로그](http://myblog.opendocs.co.kr/archives/1657)
 
-## [Failed to load resource: net::ERR_INCOMPLETE_CHUNKED_ENCODING]
-
-태그 안이 비었는지 확인
-
-
-
-
-Error configuring application listener of class [org.springframework.web.context.ContextLoaderListener]
-
->[http://myblog.opendocs.co.kr/archives/1657](http://myblog.opendocs.co.kr/archives/1657)
-
-
-
-
-cookie config 오류
-> servlet 버전이 다름
+8. cookie config 오류
+> web.xml의 servlet-api 버전을 3.1.0 이상으로 고쳐줘야함
 
 org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.NullPointerException
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5NDE4MjI5LC00NTczOTcxNDQsODU4OT
-M4ODAzLC0xODA3MzY3MDMwLC0yMDI0MTI0NzczLC0xMDkwMjg2
-MDc2LDEwOTA0ODQ1MzcsLTE2NDA1NTA4MjEsLTI3ODQ4NTE2OF
-19
+eyJoaXN0b3J5IjpbLTEyOTk1NDU0MzAsLTQ1NzM5NzE0NCw4NT
+g5Mzg4MDMsLTE4MDczNjcwMzAsLTIwMjQxMjQ3NzMsLTEwOTAy
+ODYwNzYsMTA5MDQ4NDUzNywtMTY0MDU1MDgyMSwtMjc4NDg1MT
+Y4XX0=
 -->
