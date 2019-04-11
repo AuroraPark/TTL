@@ -32,9 +32,9 @@
 8. cookie config 오류
 > web.xml의 servlet-api 버전을 3.1.0 이상으로 고쳐줘야함
 
-org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.NullPointerException
+9. org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.NullPointerException
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTk1NDU0MzAsLTQ1NzM5NzE0NCw4NT
+eyJoaXN0b3J5IjpbLTE4MzkzODIyNTEsLTQ1NzM5NzE0NCw4NT
 g5Mzg4MDMsLTE4MDczNjcwMzAsLTIwMjQxMjQ3NzMsLTEwOTAy
 ODYwNzYsMTA5MDQ4NDUzNywtMTY0MDU1MDgyMSwtMjc4NDg1MT
 Y4XX0=
