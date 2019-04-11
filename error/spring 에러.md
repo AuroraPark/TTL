@@ -33,10 +33,11 @@
 > web.xml의 servlet-api 버전을 3.1.0 이상으로 고쳐줘야함
 
 9. org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.NullPointerException
-10. 
+10. net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy.getNetworkTimeout()I)
+> 둘이 같은문제인듯 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzAwNTYyLC0xODM5MzgyMjUxLC00NT
-czOTcxNDQsODU4OTM4ODAzLC0xODA3MzY3MDMwLC0yMDI0MTI0
-NzczLC0xMDkwMjg2MDc2LDEwOTA0ODQ1MzcsLTE2NDA1NTA4Mj
-EsLTI3ODQ4NTE2OF19
+eyJoaXN0b3J5IjpbMTM1ODg1MTMzMCwtMTgzOTM4MjI1MSwtND
+U3Mzk3MTQ0LDg1ODkzODgwMywtMTgwNzM2NzAzMCwtMjAyNDEy
+NDc3MywtMTA5MDI4NjA3NiwxMDkwNDg0NTM3LC0xNjQwNTUwOD
+IxLC0yNzg0ODUxNjhdfQ==
 -->
