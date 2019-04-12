@@ -1,4 +1,5 @@
-ㅔ
+p.534
+if문 아래부터
 
 
 ```
@@ -52,5 +53,5 @@ return  new ResponseEntity<Resource>(resource, headers, HttpStatus.OK);
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MjQ2MDAzXX0=
+eyJoaXN0b3J5IjpbMTI5Mzg2NzUzOF19
 -->
