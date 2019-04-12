@@ -52,6 +52,13 @@ return  new ResponseEntity<Resource>(resource, headers, HttpStatus.OK);
 }
 
 ```
+
+
+p. 591 
+if 문 아래 오탈자
+
+```
+if (modifyResult && board.getAttachList() != null && board.getAttachList().size() > 0) {```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzg2NzUzOF19
+eyJoaXN0b3J5IjpbMTYwNjczNTY3NywxMjkzODY3NTM4XX0=
 -->
