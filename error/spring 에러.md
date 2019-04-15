@@ -40,11 +40,12 @@
 
 
 
-
+12.
+[Q:\Document.Project\workspace\document-project\src\main\java\log4j.dtd (지정된 파일을 찾을 수 없습니다)" that is specified as](https://hermeslog.tistory.com/261)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjU0NTM2MywtNjg1ODgwNzE1LDEzNT
-g4NTEzMzAsLTE4MzkzODIyNTEsLTQ1NzM5NzE0NCw4NTg5Mzg4
-MDMsLTE4MDczNjcwMzAsLTIwMjQxMjQ3NzMsLTEwOTAyODYwNz
-YsMTA5MDQ4NDUzNywtMTY0MDU1MDgyMSwtMjc4NDg1MTY4XX0=
-
+eyJoaXN0b3J5IjpbLTMyNzM0MzM3OSwtMzg2NTQ1MzYzLC02OD
+U4ODA3MTUsMTM1ODg1MTMzMCwtMTgzOTM4MjI1MSwtNDU3Mzk3
+MTQ0LDg1ODkzODgwMywtMTgwNzM2NzAzMCwtMjAyNDEyNDc3My
+wtMTA5MDI4NjA3NiwxMDkwNDg0NTM3LC0xNjQwNTUwODIxLC0y
+Nzg0ODUxNjhdfQ==
 -->
