@@ -45,11 +45,11 @@
 
 
 13.
-[이클립스 JEE 프로젝트에서 Classpath entry 어쩌구 하는 워닝 뜰 때 조치법] (https://pcandme.tistory.com/50)
+[이클립스 JEE 프로젝트에서 Classpath entry 어쩌구 하는 워닝 뜰 때 조치법](https://pcandme.tistory.com/50)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDQxNTU2OSwtMTc0OTY0NDUzLC0zOD
-Y1NDUzNjMsLTY4NTg4MDcxNSwxMzU4ODUxMzMwLC0xODM5Mzgy
-MjUxLC00NTczOTcxNDQsODU4OTM4ODAzLC0xODA3MzY3MDMwLC
-0yMDI0MTI0NzczLC0xMDkwMjg2MDc2LDEwOTA0ODQ1MzcsLTE2
-NDA1NTA4MjEsLTI3ODQ4NTE2OF19
+eyJoaXN0b3J5IjpbLTE1MTIyMjUxMzUsLTE3NDk2NDQ1MywtMz
+g2NTQ1MzYzLC02ODU4ODA3MTUsMTM1ODg1MTMzMCwtMTgzOTM4
+MjI1MSwtNDU3Mzk3MTQ0LDg1ODkzODgwMywtMTgwNzM2NzAzMC
+wtMjAyNDEyNDc3MywtMTA5MDI4NjA3NiwxMDkwNDg0NTM3LC0x
+NjQwNTUwODIxLC0yNzg0ODUxNjhdfQ==
 -->
