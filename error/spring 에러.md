@@ -42,10 +42,14 @@
 
 12. 에러는 아니고 log4j 노란줄 뜨는거
 [Q:\Document.Project\workspace\document-project\src\main\java\log4j.dtd (지정된 파일을 찾을 수 없습니다)" that is specified as](https://hermeslog.tistory.com/261)
+
+
+13.
+[이클립스 JEE 프로젝트에서 Classpath entry 어쩌구 하는 워닝 뜰 때 조치법] (https://pcandme.tistory.com/50)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk2NDQ1MywtMzg2NTQ1MzYzLC02OD
-U4ODA3MTUsMTM1ODg1MTMzMCwtMTgzOTM4MjI1MSwtNDU3Mzk3
-MTQ0LDg1ODkzODgwMywtMTgwNzM2NzAzMCwtMjAyNDEyNDc3My
-wtMTA5MDI4NjA3NiwxMDkwNDg0NTM3LC0xNjQwNTUwODIxLC0y
-Nzg0ODUxNjhdfQ==
+eyJoaXN0b3J5IjpbMTAyMDQxNTU2OSwtMTc0OTY0NDUzLC0zOD
+Y1NDUzNjMsLTY4NTg4MDcxNSwxMzU4ODUxMzMwLC0xODM5Mzgy
+MjUxLC00NTczOTcxNDQsODU4OTM4ODAzLC0xODA3MzY3MDMwLC
+0yMDI0MTI0NzczLC0xMDkwMjg2MDc2LDEwOTA0ODQ1MzcsLTE2
+NDA1NTA4MjEsLTI3ODQ4NTE2OF19
 -->
