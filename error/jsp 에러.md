@@ -1,4 +1,4 @@
-java.lang.ClassNotFoundException
+```java.lang.ClassNotFoundException```
 
 
 
@@ -38,11 +38,12 @@ Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class 
 
 ```
 INFO : org.springframework.context.annotation.ClassPathBeanDefinitionScanner - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+```
 이게멀까
-``
+
 web.xml 오류라고하는디 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc5OTY1MSwtMTQ1ODU2Mjc5MSwyOT
-AyMzg1ODcsLTEyMjgzOTcxMjcsODA4MTM0MzgxLC0xMDc0Nzc3
-NDI0XX0=
+eyJoaXN0b3J5IjpbNzc4OTI1NjIzLC0xNDU4NTYyNzkxLDI5MD
+IzODU4NywtMTIyODM5NzEyNyw4MDgxMzQzODEsLTEwNzQ3Nzc0
+MjRdfQ==
 -->
