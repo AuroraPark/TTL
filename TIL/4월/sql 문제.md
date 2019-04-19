@@ -31,6 +31,51 @@ from (
 where rownum < 6;
 ```
 
+#### Q2. 관리자별(manager_id)별(이름)로 담당하고 있는 직원의 수(count())를 나타내시오.
+```
+SELECT e2.name, e1.manager_id, count(*) 
+
+FROM s_emp e1, s_emp e2
+
+where e1.manager_id = e2.id
+
+group by e2.name,e1.manager_id
+
+order by e1.manager_id;
+```
+###  1. OUTER JOIN
+
+> **사용법 :** WHERE e.id **(+)** = c.sales_rep_id  -- LEFT OUTER JOIN
+
+ - LEFT OUTER, RIGHT OUTER, FULL OUTER
+ - 데이터가 부족한 쪽으로 '(+)'를 붙이면 된다.
+
+```
+> 담당 직원이 배정되지 않은 고객을 찾는 경우
+
+SELECT e.name 사원명, e.id, c.name 고객명 
+
+FROM s_emp e, s_customer c
+
+WHERE e.id (+) = c.sales_rep_id  -- LEFT OUTER JOIN
+--WHERE e.id = c.sales_rep_id (+) -- RIGHT OUTER JOIN
+
+ORDER BY 2;
+```
+
+#### Q1. 각 직책별(title)로 급여의 총합(sum(salary))을 구하되 직책이 부장인 사람은 제외하시오, 단, 급여 총합이 8000만원 이상인 직책만 나타내며, 급여 총합에 대한 오름차순으로 정렬하시오
+```
+select title, sum(salary) from s_emp--1. 급여의 총합 - (sum(salary))
+
+where title not like '%부장' -- 부장인 사람은 제외
+
+group by title--2. 직책별로 - (title)
+
+having sum(salary) >= 8000--3. 급여 총합이 8000만원 이상
+
+order by 2 asc;--4. 오름차순
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE2NzAxMTRdfQ==
+eyJoaXN0b3J5IjpbMTcxODIzNjAxNF19
 -->
