@@ -7,7 +7,7 @@ group by dept_id
 having avg(salary) >= 2000 
 -- 그룹함수 조건은 where 절이 아닌 having에 넣는다
 ;
-
+```
 
 #### Q3. 각 부서내에서(dept_id) 각 직책별(title)로 몇명의 인원(count(*))이 있는지 나타내시오
 ```
@@ -18,6 +18,19 @@ group by title--3. 직책별로 그룹화
 order by title
 ;
 ```
+
+#### Q. 직원(S_EMP) 테이블에서 이름을 사전순으로 정렬하여 5개의 데이터만 나타내시오.
+
+```
+select name 연봉킹이름, salary 연봉
+
+from (
+	select name, salary from s_emp 
+	order by 2 desc	) -- 정렬먼저
+
+where rownum < 6;
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5NDQ2MTc0XX0=
+eyJoaXN0b3J5IjpbLTE4MDE2NzAxMTRdfQ==
 -->
