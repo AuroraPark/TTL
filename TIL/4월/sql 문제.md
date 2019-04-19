@@ -1,6 +1,7 @@
 #### Q1. 각 부서별(dept_id)로 평균 급여(avg(salary))를 구하되 평균 급여가 2000 이상(avg(salary)>=2000)인 부서만 나타내시오
 ```
-select dept_id,avg(salary) from s_emp
+select dept_id 부서이름,avg(salary) 평균급여
+ from s_emp
 
 group by dept_id
 
@@ -83,5 +84,5 @@ order by 2 asc;--4. 오름차순
 
 #### 10.시퀀스 허허ㅓ허 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY5NjcxMzZdfQ==
+eyJoaXN0b3J5IjpbLTcyMTEwNDI2XX0=
 -->
