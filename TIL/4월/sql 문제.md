@@ -43,7 +43,7 @@ group by e2.name,e1.manager_id
 
 order by e1.manager_id;
 ```
-###  5. OUTER JOIN
+####  5. OUTER JOIN
 
 > **사용법 :** WHERE e.id **(+)** = c.sales_rep_id  -- LEFT OUTER JOIN
 
@@ -81,7 +81,7 @@ order by 2 asc;--4. 오름차순
 
 #### 9. 제약조건 종류
 
-#### 10.시퀀
+#### 10.시퀀스 허허ㅓ허 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODM4MTM3NF19
+eyJoaXN0b3J5IjpbLTEyNDY5NjcxMzZdfQ==
 -->
