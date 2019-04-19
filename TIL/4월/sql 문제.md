@@ -42,14 +42,14 @@ group by dept_id--3. 부서별로 그룹화
 
 #### Q4.  담당 직원이 배정되지 않은 고객을 찾는 경우
 ```
-SELECT e.name 사원명, e.id, c.name 고객명 
+SELECT c.name 고객명, e.id, e.name 사원명 
 
 FROM s_emp e, s_customer c
 
---WHERE e.id (+) = c.sales_rep_id  -- LEFT OUTER JOIN
-WHERE e.id = c.sales_rep_id (+) -- RIGHT OUTER JOIN
+WHERE e.id (+) = c.sales_rep_id  -- LEFT OUTER JOIN
+--WHERE e.id = c.sales_rep_id (+) -- RIGHT OUTER JOIN
 
-ORDER BY 2;
+ORDER BY 2 desc;
 ```
 
 
@@ -91,6 +91,10 @@ where rownum < 4;
 
 #### Q9. 인덱스 언제 쓰는지
 
+- 조건절이나 조인에서 자주 사용되는 컬럼
+- 컬럼이 넓은 범위의 값을 가질 때
+- null 값이 많은 컬럼
+- 테이블에 데이터가 많고 조회되는 행이 전체의 10-15%일때
 
 #### Q10.아래의 sql문은 비효율적이다. (title에 인덱스가 작성되어 있다고 가정)
 이 문장을 not exists를 사용해서 효율적으로 작성하시오.
@@ -100,11 +104,12 @@ select * from s_emp where title <> '사원';
 ```
 
 ```
-select * from s_emp where not exists (select * from s_emp where title='사원');
+select * from s_emp e 
+where not exists(select 'X' from s_emp where e.title='사원');
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDI3NDkwNiwxNjg3NjQxNjcxLC0yMD
-g4NzQ2NjEyLC03MjExMDQyNl19
+eyJoaXN0b3J5IjpbMTMxMjg0ODk3MiwxMzc0Mjc0OTA2LDE2OD
+c2NDE2NzEsLTIwODg3NDY2MTIsLTcyMTEwNDI2XX0=
 -->
