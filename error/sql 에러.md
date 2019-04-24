@@ -17,9 +17,9 @@
 
 
 5. 오라클 행번호 
-[https://acholyte.tistory.com/entry/Oracle-SQL-Developer-%EC%A4%84-%EB%B2%88%ED%98%B8-%EB%B3%B4%EC%9D%B4%EA%B2%8C-%ED%95%98%EA%B8%B0](https://acholyte.tistory.com/entry/Oracle-SQL-Developer-%EC%A4%84-%EB%B2%88%ED%98%B8-%EB%B3%B4%EC%9D%B4%EA%B2%8C-%ED%95%98%EA%B8%B0)
+[도구-환경설정-코드편집기-행여백-행번호표시](https://acholyte.tistory.com/entry/Oracle-SQL-Developer-%EC%A4%84-%EB%B2%88%ED%98%B8-%EB%B3%B4%EC%9D%B4%EA%B2%8C-%ED%95%98%EA%B8%B0)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTA5Nzg2OCwxNDU1NDczMDM4LDIwMz
-cwNDI5NzcsLTkzNjMxMDcwMCwxNDU4MzQ1Mjk1LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbODQwMzk2Njg3LDE0NTU0NzMwMzgsMjAzNz
+A0Mjk3NywtOTM2MzEwNzAwLDE0NTgzNDUyOTUsNzMwOTk4MTE2
+XX0=
 -->
