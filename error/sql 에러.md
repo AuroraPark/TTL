@@ -14,8 +14,12 @@
 
 4.
 [요청한 작업을 수행하는 중 오류 발생: IO 오류: The Network Adapter could not establish the connection 업체 코드 17002](https://m.blog.naver.com/blogpyh/40209232034)
+
+
+5. 오라클 행번호 
+[https://acholyte.tistory.com/entry/Oracle-SQL-Developer-%EC%A4%84-%EB%B2%88%ED%98%B8-%EB%B3%B4%EC%9D%B4%EA%B2%8C-%ED%95%98%EA%B8%B0](https://acholyte.tistory.com/entry/Oracle-SQL-Developer-%EC%A4%84-%EB%B2%88%ED%98%B8-%EB%B3%B4%EC%9D%B4%EA%B2%8C-%ED%95%98%EA%B8%B0)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyMzM3ODU3LDE0NTU0NzMwMzgsMjAzNz
-A0Mjk3NywtOTM2MzEwNzAwLDE0NTgzNDUyOTUsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbMTMyMTA5Nzg2OCwxNDU1NDczMDM4LDIwMz
+cwNDI5NzcsLTkzNjMxMDcwMCwxNDU4MzQ1Mjk1LDczMDk5ODEx
+Nl19
 -->
