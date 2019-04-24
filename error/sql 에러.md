@@ -10,7 +10,12 @@
 
 3.
 [오라클 설치 오류 - 삭제 방법](https://m.blog.naver.com/PostView.nhn?blogId=hupers&logNo=70120883076&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+
+
+4.
+[요청한 작업을 수행하는 중 오류 발생: IO 오류: The Network Adapter could not establish the connection 업체 코드 17002](https://m.blog.naver.com/blogpyh/40209232034)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTQ3MzAzOCwyMDM3MDQyOTc3LC05Mz
-YzMTA3MDAsMTQ1ODM0NTI5NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTEyMzM3ODU3LDE0NTU0NzMwMzgsMjAzNz
+A0Mjk3NywtOTM2MzEwNzAwLDE0NTgzNDUyOTUsNzMwOTk4MTE2
+XX0=
 -->
