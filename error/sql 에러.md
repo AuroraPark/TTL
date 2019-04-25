@@ -18,8 +18,12 @@
 
 5. 오라클 행번호 
 [도구-환경설정-코드편집기-행여백-행번호표시](https://acholyte.tistory.com/entry/Oracle-SQL-Developer-%EC%A4%84-%EB%B2%88%ED%98%B8-%EB%B3%B4%EC%9D%B4%EA%B2%8C-%ED%95%98%EA%B8%B0)
+
+6.
+[unable to extend segment by 8 in undo tablespace 'UNDOTBS1'](https://positivemh.tistory.com/377)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwMzk2Njg3LDE0NTU0NzMwMzgsMjAzNz
-A0Mjk3NywtOTM2MzEwNzAwLDE0NTgzNDUyOTUsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbLTMwNjI3MzE2Myw4NDAzOTY2ODcsMTQ1NT
+Q3MzAzOCwyMDM3MDQyOTc3LC05MzYzMTA3MDAsMTQ1ODM0NTI5
+NSw3MzA5OTgxMTZdfQ==
 -->
